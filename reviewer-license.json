@@ -1,0 +1,7 @@
+{
+    "format":  "kailz-caltrack-license-v1",
+    "payload":  "eyJsaWNlbnNlZSI6Ikdvb2dsZSBQbGF5IFJldmlld2VyIiwidGllciI6IlBSRU1JVU0iLCJpc3N1ZWRBdCI6MTc3NzQ2NzIzMDcyMywiZXhwaXJlc0F0IjoxNzg1MjQzMjExMzEzLCJhdWRpZW5jZSI6ImNvbS5rYWlsei5jYWx0cmFjayIsIm5vdGUiOm51bGx9",
+    "signature":  "ZDkCFVVH85a2jlaF-A9xckuvOQ5Mus8r9CUtK5NnYcr0El2tzWfZ1Cv_4TjMEtu5qz2n6lwG3QtQ_BYBz5GVqbFIZ8_rHcz8phHCEtTuf9jZjB781RE4lq0KZ6zlg2dRVnt_yrHyj3xrjg-yQinTPBLbiIVLPwl0NGppmjn9mxy07frW7yP08btXLJ5FFX2GNF4aTQeXnece13ZuJHa-xJdkfqZMgmUnmhdLHY33A2ynheycyqM3iumudDUiG7yy_g2jdLkwL4hkkJgfm3cVynS5IuxNMQLpIJanSqsQy3LyXrC6u_lRjOQpBErbdX0DBQJV0-S7eGFLL62CkWyuvtK_x9i1rDKsDtWHdkjzRJyHMZBlwtvhiLhIXj4CKvFb_RgHavxx5gPmvgBeV9GkHyvWwHGnDeue7jWe9xc_24Lh3IH6o62cOJoIMwxzOLJT1SvL-9MX_GpTsKM3DCNzhmmtrK6qFLOD2orwVi3NrFNuEQ7leC0B5HnBi47vQNOT",
+    "algorithm":  "SHA256withRSA",
+    "keyId":  null
+}
